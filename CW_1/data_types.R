@@ -11,7 +11,7 @@ class(my_numeric)
 
 # Установите значение my_character в "МИР"
 my_character <- "Привет"
-my_character<-"мир"
+my_character <- "МИР"
 
 # Проверьте тип данных my_numeric
 class(my_character)
