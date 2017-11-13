@@ -1,3 +1,5 @@
+###нужно сделать
+
 #Загрузите данные о землятресениях
 anss <- readLines("https://raw.githubusercontent.com/SergeyMirvoda/MD-DA-2017/master/data/earthquakes_2011.html", warn=FALSE)
 
